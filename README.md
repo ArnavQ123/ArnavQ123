@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F7FF?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/LOCATION-PUNJAB%2C%20INDIA-FF00E5?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CGPA-6.57-FFD500?style=for-the-badge&labelColor=0d1117" />
 
 <img src="https://komarev.com/ghpvc/?username=ArnavQ123&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 
@@ -62,27 +61,11 @@
 
 </div>
 
-## 🌌 Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArnavQ123/ArnavQ123/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArnavQ123/ArnavQ123/output/snake.gif" width="90%" />
-</div>
-
 ## 🚀 Featured Projects
 
 - 🌾 **[Drought Awareness & Environmental Impact Website](https://github.com/ArnavQ123)** — Interactive Streamlit web app raising awareness on drought impacts using On-Demand AI API, Pandas & REST APIs (Jan'26–Feb'26)
 - 💸 **[SmartSplit AI – Automated Expense Sharing System](https://github.com/ArnavQ123)** — AI-driven expense splitter with receipt scanning & smart transaction categorization using Python, Streamlit, On-Demand AI API (Jun'25–Jul'25)
 - 🚔 **[Crime Review Analysis Dashboard](https://github.com/ArnavQ123)** — Power BI dashboard analyzing regional crime trends with advanced filtering and drill-through insights (Mar'25)
-
-- 🌾 **Drought Awareness & Environmental Impact Website** — Interactive Streamlit web app raising awareness on drought impacts using On-Demand AI API, Pandas & REST APIs (Jan'26–Feb'26)
-- 💸 **SmartSplit AI – Automated Expense Sharing System** — AI-driven expense splitter with receipt scanning & smart transaction categorization using Python, Streamlit, On-Demand AI API (Jun'25–Jul'25)
-- 🚔 **Crime Review Analysis Dashboard** — Power BI dashboard analyzing regional crime trends with advanced filtering and drill-through insights (Mar'25)
 
 ## 🏆 Achievements & Certifications
 
