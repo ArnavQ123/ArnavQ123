@@ -76,16 +76,9 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ArnavQ123">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavQ123&repo=drought-awareness-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ArnavQ123">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavQ123&repo=smartsplit-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
-</a>
-
-</div>
+- 🌾 **[Drought Awareness & Environmental Impact Website](https://github.com/ArnavQ123)** — Interactive Streamlit web app raising awareness on drought impacts using On-Demand AI API, Pandas & REST APIs (Jan'26–Feb'26)
+- 💸 **[SmartSplit AI – Automated Expense Sharing System](https://github.com/ArnavQ123)** — AI-driven expense splitter with receipt scanning & smart transaction categorization using Python, Streamlit, On-Demand AI API (Jun'25–Jul'25)
+- 🚔 **[Crime Review Analysis Dashboard](https://github.com/ArnavQ123)** — Power BI dashboard analyzing regional crime trends with advanced filtering and drill-through insights (Mar'25)
 
 - 🌾 **Drought Awareness & Environmental Impact Website** — Interactive Streamlit web app raising awareness on drought impacts using On-Demand AI API, Pandas & REST APIs (Jan'26–Feb'26)
 - 💸 **SmartSplit AI – Automated Expense Sharing System** — AI-driven expense splitter with receipt scanning & smart transaction categorization using Python, Streamlit, On-Demand AI API (Jun'25–Jul'25)
