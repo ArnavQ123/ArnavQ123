@@ -71,7 +71,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArnavQ123/ArnavQ123/output/snake.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/ArnavQ123/ArnavQ123/output/snake.gif" width="90%" />
 </div>
 
 ## 🚀 Featured Projects
